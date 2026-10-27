@@ -1,0 +1,6 @@
+{
+  "name": "HostelHub",
+  "description": "HostelHub — Smart Living, Simple Management. Complete Hostel Management System for students, rooms, fees, complaints, leave, mess, and visitors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
